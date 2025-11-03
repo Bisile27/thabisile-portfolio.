@@ -158,16 +158,5 @@ index_html = """<!DOCTYPE html>
 </html>
 """
 
-# --- README.md ---
-readme_md = """# Thabisile Mbonambi | Business Analyst & SaaS Solutions Specialist
 
-Static landing page with rose gold gradient header, premium gradient buttons, modern gradient headers, and smooth scroll fade-in animations.  
-
-🌐 **Live Site:** [https://Bisile27.github.io/thabisile-portfolio/](https://Bisile27.github.io/thabisile-portfolio/)
-
-## 🚀 How to View Locally
-```bash
-git clone https://github.com/Bisile27/thabisile-portfolio.git
-cd thabisile-portfolio
-open index.html
 
