@@ -1,4 +1,3 @@
-from zipfile import ZipFile
 from PIL import Image, ImageDraw, ImageFont
 import os
 
